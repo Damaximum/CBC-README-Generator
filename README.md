@@ -7,7 +7,7 @@
 ​
 Create a professional README in mere seconds! This project will help anyone creating READMEs for their project.
 ​
-Link to the Tutorial [Video] (https://www.youtube.com/watch?v=VZIJiNx0GsE)
+Link to the [Tutorial Video] (https://www.youtube.com/watch?v=VZIJiNx0GsE)
 
 ## Table of Contents
 
